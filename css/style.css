@@ -1,0 +1,7 @@
+.container-lg, .container-fluid {
+    background-color: rgb(182, 93, 194);
+}
+
+.col {
+    border: 1px solid rgb(0, 0, 0);
+}
